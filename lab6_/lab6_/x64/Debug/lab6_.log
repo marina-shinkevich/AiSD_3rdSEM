@@ -1,0 +1,3 @@
+﻿  lab6.cpp
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab6_\lab6_\lab6.cpp(123,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab6_.vcxproj -> C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab6_\x64\Debug\lab6_.exe

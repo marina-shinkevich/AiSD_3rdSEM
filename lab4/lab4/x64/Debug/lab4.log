@@ -1,0 +1,23 @@
+﻿  lab4.cpp
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(13,11): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(13,11): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(13,11): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(14,17): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(14,17): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(14,17): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,6): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,6): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,6): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,26): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,26): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(15,26): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(16,7): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(16,7): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(16,7): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,10): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,10): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,10): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,23): warning C4838: Преобразование из "__int64" в "int" требует сужающего преобразования.
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,23): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(17,23): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Documents\2 курс 1 сем\лабы АСД\lab4\lab4\lab4.cpp(21,19): error C2059: синтаксическая ошибка: )
